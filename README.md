@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anything related to understand K8S and AWS deeply.
 - 💬 Ask me about whatever comes to mind :)
 - 📫 How to reach me: [DM on Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b/)
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: It's been 13 year old veggie 
