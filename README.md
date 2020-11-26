@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever comes to mind :)
 - 📫 How to reach me: [DM on Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: It's been 13 year old veggie 
+- ⚡ Fun fact: I am a 13 year old veggie 
