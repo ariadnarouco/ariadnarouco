@@ -19,16 +19,12 @@ Here's my Resume:
 
 # CV - Ariadna Rouco
 
-📞 +34 667 93 92 78  
-📧 [ariadna.rouco@gmail.com](mailto:ariadna.rouco@gmail.com)  
-🔗 [https://www.linkedin.com/in/ariadna-rouco-9a34132b](https://www.linkedin.com/in/ariadna-rouco-9a34132b)  
-
-**Location:** Barcelona, España  
+📍 [Barcelona, Spain] | 📧 [Email](mailto:ariadna.rouco@gmail.com)  | 💼 [[Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b)  ]
 
 ## Backend Software Engineer  
 
-Passionate backend software engineer with expertise in large distributed systems, problem-solving, and incident management.  
-Enthusiastic about contributing to open-source projects and advocating for best practices within teams.  
+Passionate backend software engineer with expertise in **large distributed systems, problem-solving, and incident management**.  
+Enthusiastic about contributing to **open-source projects** and advocating for best practices within teams.  
 
 Skilled in both oral and written communication, fluent in English, and eager to enhance language proficiency further.  
 Recognized for adaptability, teamwork, and a commitment to continuous learning and improvement.  
