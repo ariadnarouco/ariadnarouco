@@ -114,6 +114,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 - In charge of testing and creating the test scripts to define the quality of SIM applications developed by the company for customers like Facebook, Home banking, Claro, among others.  
 - Managed documentation.  
 
+<br>
 
 ### **Hewlett Packard, Business Process Outsourcing Customer Rep II**  
 **Jan 2013 – Jan 2014**  
@@ -132,6 +133,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
   *UADE*  
   **2009–2016** - Graduated  
 
+<br>
 
 ## Courses  
 
@@ -139,6 +141,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 - **Tech Lead** at Engineering Manager Academy  
 - **Management 3.0** at Improvement 21  
 
+<br>
 
 ## Languages  
 
