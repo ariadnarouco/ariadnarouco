@@ -31,6 +31,7 @@ Recognized for adaptability, teamwork, and a commitment to continuous learning a
 
 Aspiring to excel in team leadership and coordination, leveraging technical expertise and a collaborative mindset to drive success.  
 
+<br>
 
 ## Experience  
 
