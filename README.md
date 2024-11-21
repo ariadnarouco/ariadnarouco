@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here's my Resume:
 
-# CV - Ariadna Rouco
+# Ariadna Rouco
 
 📍 Barcelona, Spain | 📧 [Email](mailto:ariadna.rouco@gmail.com)  | 💼 [Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b)
 
