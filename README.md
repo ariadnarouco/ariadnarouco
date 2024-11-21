@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at a global online classifieds specialist company where we are creating a PaaS for markeplaces and global teams.
 - 🌱 I’m currently learning Kubernetes and AWS main services
 - 👯 I’m looking to collaborate on open-source project and tools that can help developers and teams to boost their productivity
-- 🤔 I’m looking for help with anything related to understand K8S and AWS deeply.
+- 🤔 I’m looking for help with anything related to understand K8S and AWS deeply
 - 💬 Ask me about whatever comes to mind :)
 - 📫 How to reach me: [DM on Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b/)
 - 😄 Pronouns: she/her
@@ -19,7 +19,7 @@ Here's my Resume:
 
 # CV - Ariadna Rouco
 
-📍 [Barcelona, Spain] | 📧 [Email](mailto:ariadna.rouco@gmail.com)  | 💼 [[Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b)  ]
+📍 Barcelona, Spain | 📧 [Email](mailto:ariadna.rouco@gmail.com)  | 💼 [Linkedin](https://www.linkedin.com/in/ariadna-rouco-9a34132b)
 
 ## Backend Software Engineer  
 
@@ -46,6 +46,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 **Technologies:** Golang, Java, Python, Kubernetes, Argo Project, AWS, and more.  
 
+<br>
 
 ### **Adevinta, Incident Manager - IMT**  
 **Oct 2021 – Present**  
@@ -54,6 +55,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 - Delivered workshops and training to empower users with knowledge of incident management protocols.  
 - Supported teams during on-call rotations, ensuring swift and effective handling of escalated incidents.  
 
+<br>
 
 ### **Adevinta, SE - Platform Services Enabler Coordinator**  
 **Dec 2020 – Oct 2021**  
@@ -63,6 +65,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 **Technologies:** Golang, Java, Scala, Python, Kubernetes, Spinnaker, Travis, Event Driven Arch., and more.  
 
+<br>
 
 ### **Adevinta, SE - Platform Services Embedded Enabler**  
 **Nov 2019 – Dec 2020**  
@@ -72,6 +75,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 **Technologies:** Golang, Java, Scala, Python, Kubernetes, Spinnaker, Travis, Event Driven Arch., and more.  
 
+<br>
 
 ### **Libro de Pases, Software Engineer & Development Director**  
 **Jan 2017 – Mar 2021**  
@@ -80,6 +84,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 - Transitioned to full ownership of the project, fixing bugs and implementing new features to create a polished version for investor presentations, successfully securing additional funding.  
 - Promoted to Development Director, leading efforts to rebuild the platform in collaboration with a new company, overseeing the entire development lifecycle and team coordination.  
 
+<br>
 
 ### **Mercado Libre, SE - Shipping**  
 **Apr 2018 – Nov 2019**  
@@ -90,6 +95,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 **Technologies:** Golang, Java, Groovy/Grails, and Python, along with tools like ElasticSearch, Redis, and more.  
 
+<br>
 
 ### **Kuehne + Nagel, SE & Support team lead**  
 **Apr 2018 – Nov 2019**  
@@ -100,6 +106,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 **Technologies:** Java, Springboot, GWT, Hibernate, Jenkins, SQL/HQL, Git, and more.  
 
+<br>
 
 ### **Gemalto, SE - Card Software Trainee**  
 **Jan 2013 – Jan 2014**  
@@ -113,6 +120,7 @@ Aspiring to excel in team leadership and coordination, leveraging technical expe
 
 - Provided application and process support for a major health insurance client in the U.S., ensuring accurate incident management, defining customer requirements for HIPAA-compliant EDIs, and managing secure data connectivity, earning formal recognition for exceptional performance.  
 
+<br>
 
 ## Education  
 
